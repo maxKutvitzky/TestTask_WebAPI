@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "Default": "Server=localhost; Database=TestTast_WebAPI; TrustServerCertificate=True; Trusted_Connection=true"
+  }
+}

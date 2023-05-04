@@ -34,6 +34,8 @@ namespace TestTask.DAL.Entities
 
         public List<CartItem> Cart { get; set; }
 
+        public List<Product> Products { get; set; }
+
         public Client Client { get; set; }
     }
 }
