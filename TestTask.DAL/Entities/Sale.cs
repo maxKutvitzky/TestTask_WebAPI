@@ -14,7 +14,7 @@ namespace TestTask.DAL.Entities
             {
                 _saleSummary = 0;
 
-                if (!Cart.Any())
+                if (Cart == null || !Cart.Any())
                 {
                     return _saleSummary;
                 }
