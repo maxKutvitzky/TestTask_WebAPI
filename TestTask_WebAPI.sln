@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTask.WebAPI", "TestTask_WebAPI\TestTask.WebAPI.csproj", "{1682B9A6-C162-44D4-8B6D-FBD502C31AD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTask.DAL", "TestTask.DAL\TestTask.DAL.csproj", "{19DEB8F3-3952-46A0-BCB9-1A74EB502307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1682B9A6-C162-44D4-8B6D-FBD502C31AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1682B9A6-C162-44D4-8B6D-FBD502C31AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1682B9A6-C162-44D4-8B6D-FBD502C31AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1682B9A6-C162-44D4-8B6D-FBD502C31AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19DEB8F3-3952-46A0-BCB9-1A74EB502307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DEB8F3-3952-46A0-BCB9-1A74EB502307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DEB8F3-3952-46A0-BCB9-1A74EB502307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DEB8F3-3952-46A0-BCB9-1A74EB502307}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88D585A2-F17E-4119-9D36-2638833B8DA7}
+	EndGlobalSection
+EndGlobal
